@@ -1,0 +1,12 @@
+/* pages/index/index.wxss */
+
+
+.swiper{width: 100%;}
+
+.sw
+{
+    margin-top: 40rpx;
+    margin-left: 30rpx;
+}
+
+
