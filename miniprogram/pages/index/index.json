@@ -3,6 +3,7 @@
 
     "c-topbar":"/com/topbar/topbar",
     "c-tx":"/com/tx/tx",
-    "c-con": "/com/con/com"
+    "c-con": "/com/con/com",
+    "c-icon": "/com/icon/icon"
   }
 }
